@@ -1,0 +1,1 @@
+# MCSOLOL Config Package

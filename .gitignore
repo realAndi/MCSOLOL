@@ -1,3 +1,12 @@
+# Cursor
+.cursorrules
+.cursor
+
+# Test environment
+/tests
+test-*.sh
+*.test.*
+
 # Python
 __pycache__/
 *.py[cod]
@@ -52,6 +61,11 @@ whitelist.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Dependencies
+node_modules/
+.next/
+out/
 
 # System
 .DS_Store
